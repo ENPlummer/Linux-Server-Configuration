@@ -50,7 +50,7 @@ In this project I took a base-line server and configured it to be able to host m
 
   * Accessible SSH Port: 2200
 
-  * Application URL:<http://35.171.139.121.xip.io>
+  * Application URL: <http://35.171.139.121.xip.io>
 
 
 ## Setup/Installation
